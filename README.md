@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h3 align="center">A passionate java developer from India,who is interested in making graphic designs(blender).</h3>
+<h3 align="center">A passionate java developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitshvr&label=Profile%20views&color=0e75b6&style=flat" alt="sumitshvr" /> </p>
 
