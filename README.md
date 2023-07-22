@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitshvr" alt="sumitshvr" /></a> </p>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Data Strucutres**
 
 - 🌱 I’m currently learning **java,Blender,Figma,c++,Dsa in C**
 
-- 👯 I’m looking to collaborate on **Blender,java**
+- 👯 I’m looking to collaborate on **web development,java,figma**
 
 - 💬 Ask me about **java,blender,c**
 
