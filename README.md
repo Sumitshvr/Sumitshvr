@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **java,Figma,Dsa in Java**
+- 🔭 I’m currently working on **java,Figma,Dsa in Java,Web Development**
 
 - 👯 I’m looking to collaborate on **java,Blender,Figma,c++,Dsa in C**
 
