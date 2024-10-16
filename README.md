@@ -70,8 +70,9 @@
 | [Tiny Tot Management System](https://github.com/Sumitshvr/TINYTOT) | Developed a user-friendly application focusing on child attendance and classroom management, resulting in a 25% reduction in reporting errors and improving overall data accuracy for teachers and administrators alike | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | [Portfolio](https://github.com/Sumitshvr/My-Protfolio) | Created a visually striking online portfolio that showcased a blend of technical skills and innovative projects;resulted in a 50% increase in LinkedIn profile views and enhanced engagement with potential employers. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 | [Stock Management](https://github.com/Sumitshvr/Stock-Management) | • Developed a modular Stock Management System using Core Java, employing polymorphism for code reusability; enhanced system performance leading to a 25% reduction in processing time for inventory updates | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-thebadge&logo=openjdk&logoColor=white)
-<details>
-  <summary> GitHub Stats</summary>
+
+
+ <summary> GitHub Stats</summary>
   
   <div align="center">
     
@@ -81,19 +82,11 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=Sumitshvr&margin-w=6&theme=chalk&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   </div>
-  
-
-
-</details>
 
 
 
-  
-  
 
-
-<details>
-  <summary>More..</summary>
+   <summary>More..</summary>
   
   Editors/IDEs<br>
   <br>
@@ -120,6 +113,11 @@
  Online Gaming
  Music
  Gymnasium
+  
+
+
+<details>
+ 
   
   
 </details>
